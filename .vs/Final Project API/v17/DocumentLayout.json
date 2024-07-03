@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project api\\crestgraphic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|solutionrelative:crestgraphic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project api\\majorasmaskart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|solutionrelative:majorasmaskart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project api\\playgamessound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|solutionrelative:playgamessound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project api\\additionalgames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|solutionrelative:additionalgames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project api\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|solutionrelative:games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project api\\additionalcharacters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|solutionrelative:additionalcharacters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project api\\characters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|solutionrelative:characters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project api\\dungeons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|solutionrelative:dungeons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project api\\characterssound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|solutionrelative:characterssound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project api\\dungeonssound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|solutionrelative:dungeonssound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project api\\placessound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|solutionrelative:placessound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project api\\monsterssound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|solutionrelative:monsterssound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project api\\bossessound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|solutionrelative:bossessound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project api\\itemssound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|solutionrelative:itemssound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project api\\monsters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|solutionrelative:monsters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project api\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|solutionrelative:items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project api\\final project api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|solutionrelative:final project api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project api\\bosses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|solutionrelative:bosses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|c:\\users\\scooo\\onedrive\\desktop\\repos\\final project api\\places.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F2077A-8AAE-48DA-B3D9-84225B18B9CE}|Final Project API.csproj|solutionrelative:places.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Characters.cs",
+              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\Characters.cs",
+              "RelativeDocumentMoniker": "Characters.cs",
+              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\Characters.cs",
+              "RelativeToolTip": "Characters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T22:45:15.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Final Project API.csproj",
+              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\Final Project API.csproj",
+              "RelativeDocumentMoniker": "Final Project API.csproj",
+              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\Final Project API.csproj",
+              "RelativeToolTip": "Final Project API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-28T22:31:04.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Games.cs",
+              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\Games.cs",
+              "RelativeDocumentMoniker": "Games.cs",
+              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\Games.cs",
+              "RelativeToolTip": "Games.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T22:30:45.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CharactersSound.cs",
+              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\CharactersSound.cs",
+              "RelativeDocumentMoniker": "CharactersSound.cs",
+              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\CharactersSound.cs",
+              "RelativeToolTip": "CharactersSound.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:41:34.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrestGraphic.cs",
+              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\CrestGraphic.cs",
+              "RelativeDocumentMoniker": "CrestGraphic.cs",
+              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\CrestGraphic.cs",
+              "RelativeToolTip": "CrestGraphic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T18:58:44.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayGamesSound.cs",
+              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\PlayGamesSound.cs",
+              "RelativeDocumentMoniker": "PlayGamesSound.cs",
+              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\PlayGamesSound.cs",
+              "RelativeToolTip": "PlayGamesSound.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:25:56.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAAAF0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T22:29:55.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdditionalGames.cs",
+              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\AdditionalGames.cs",
+              "RelativeDocumentMoniker": "AdditionalGames.cs",
+              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\AdditionalGames.cs",
+              "RelativeToolTip": "AdditionalGames.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T19:33:57.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MajorasMaskArt.cs",
+              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\MajorasMaskArt.cs",
+              "RelativeDocumentMoniker": "MajorasMaskArt.cs",
+              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\MajorasMaskArt.cs",
+              "RelativeToolTip": "MajorasMaskArt.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwD0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T17:43:20.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdditionalCharacters.cs",
+              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\AdditionalCharacters.cs",
+              "RelativeDocumentMoniker": "AdditionalCharacters.cs",
+              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\AdditionalCharacters.cs",
+              "RelativeToolTip": "AdditionalCharacters.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T18:46:12.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dungeons.cs",
+              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\Dungeons.cs",
+              "RelativeDocumentMoniker": "Dungeons.cs",
+              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\Dungeons.cs",
+              "RelativeToolTip": "Dungeons.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:19:51.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Monsters.cs",
+              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\Monsters.cs",
+              "RelativeDocumentMoniker": "Monsters.cs",
+              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\Monsters.cs",
+              "RelativeToolTip": "Monsters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:57:34.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Bosses.cs",
+              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\Bosses.cs",
+              "RelativeDocumentMoniker": "Bosses.cs",
+              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\Bosses.cs",
+              "RelativeToolTip": "Bosses.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:11:33.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Items.cs",
+              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\Items.cs",
+              "RelativeDocumentMoniker": "Items.cs",
+              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\Items.cs",
+              "RelativeToolTip": "Items.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:33:26.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlacesSound.cs",
+              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\PlacesSound.cs",
+              "RelativeDocumentMoniker": "PlacesSound.cs",
+              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\PlacesSound.cs",
+              "RelativeToolTip": "PlacesSound.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T17:10:34.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DungeonsSound.cs",
+              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\DungeonsSound.cs",
+              "RelativeDocumentMoniker": "DungeonsSound.cs",
+              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\DungeonsSound.cs",
+              "RelativeToolTip": "DungeonsSound.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwA4AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T17:18:30.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MonstersSound.cs",
+              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\MonstersSound.cs",
+              "RelativeDocumentMoniker": "MonstersSound.cs",
+              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\MonstersSound.cs",
+              "RelativeToolTip": "MonstersSound.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:55:44.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BossesSound.cs",
+              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\BossesSound.cs",
+              "RelativeDocumentMoniker": "BossesSound.cs",
+              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\BossesSound.cs",
+              "RelativeToolTip": "BossesSound.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:45:34.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ItemsSound.cs",
+              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\ItemsSound.cs",
+              "RelativeDocumentMoniker": "ItemsSound.cs",
+              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\ItemsSound.cs",
+              "RelativeToolTip": "ItemsSound.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T19:58:50.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Places.cs",
+              "DocumentMoniker": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\Places.cs",
+              "RelativeDocumentMoniker": "Places.cs",
+              "ToolTip": "C:\\Users\\Scooo\\OneDrive\\Desktop\\Repos\\Final Project API\\Places.cs",
+              "RelativeToolTip": "Places.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA8wBUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:21:57.396Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

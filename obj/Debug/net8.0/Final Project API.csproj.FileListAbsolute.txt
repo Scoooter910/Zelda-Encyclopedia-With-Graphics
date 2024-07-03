@@ -1,0 +1,23 @@
+C:\Users\Scooo\OneDrive\Desktop\Repos\Final Project API\bin\Debug\net8.0\Final Project API.exe
+C:\Users\Scooo\OneDrive\Desktop\Repos\Final Project API\bin\Debug\net8.0\Final Project API.deps.json
+C:\Users\Scooo\OneDrive\Desktop\Repos\Final Project API\bin\Debug\net8.0\Final Project API.runtimeconfig.json
+C:\Users\Scooo\OneDrive\Desktop\Repos\Final Project API\bin\Debug\net8.0\Final Project API.dll
+C:\Users\Scooo\OneDrive\Desktop\Repos\Final Project API\bin\Debug\net8.0\Final Project API.pdb
+C:\Users\Scooo\OneDrive\Desktop\Repos\Final Project API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Scooo\OneDrive\Desktop\Repos\Final Project API\obj\Debug\net8.0\Final Project API.csproj.AssemblyReference.cache
+C:\Users\Scooo\OneDrive\Desktop\Repos\Final Project API\obj\Debug\net8.0\Final Project API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scooo\OneDrive\Desktop\Repos\Final Project API\obj\Debug\net8.0\Final Project API.AssemblyInfoInputs.cache
+C:\Users\Scooo\OneDrive\Desktop\Repos\Final Project API\obj\Debug\net8.0\Final Project API.AssemblyInfo.cs
+C:\Users\Scooo\OneDrive\Desktop\Repos\Final Project API\obj\Debug\net8.0\Final Project API.csproj.CoreCompileInputs.cache
+C:\Users\Scooo\OneDrive\Desktop\Repos\Final Project API\obj\Debug\net8.0\Final Pr.866EC13D.Up2Date
+C:\Users\Scooo\OneDrive\Desktop\Repos\Final Project API\obj\Debug\net8.0\Final Project API.dll
+C:\Users\Scooo\OneDrive\Desktop\Repos\Final Project API\obj\Debug\net8.0\refint\Final Project API.dll
+C:\Users\Scooo\OneDrive\Desktop\Repos\Final Project API\obj\Debug\net8.0\Final Project API.pdb
+C:\Users\Scooo\OneDrive\Desktop\Repos\Final Project API\obj\Debug\net8.0\Final Project API.genruntimeconfig.cache
+C:\Users\Scooo\OneDrive\Desktop\Repos\Final Project API\obj\Debug\net8.0\ref\Final Project API.dll
+C:\Users\Scooo\OneDrive\Desktop\Repos\Final Project API\bin\Debug\net8.0\NAudio.dll
+C:\Users\Scooo\OneDrive\Desktop\Repos\Final Project API\bin\Debug\net8.0\NAudio.Asio.dll
+C:\Users\Scooo\OneDrive\Desktop\Repos\Final Project API\bin\Debug\net8.0\NAudio.Core.dll
+C:\Users\Scooo\OneDrive\Desktop\Repos\Final Project API\bin\Debug\net8.0\NAudio.Midi.dll
+C:\Users\Scooo\OneDrive\Desktop\Repos\Final Project API\bin\Debug\net8.0\NAudio.Wasapi.dll
+C:\Users\Scooo\OneDrive\Desktop\Repos\Final Project API\bin\Debug\net8.0\NAudio.WinMM.dll
